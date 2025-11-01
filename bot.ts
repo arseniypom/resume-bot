@@ -21,7 +21,7 @@ bot.command('start', async(ctx) => {
       type: 'web_app',
       text: 'Открыть',
       web_app: {
-        url: 'https://gpt-bot-frontend.vercel.app',
+        url: 'https://resume-snap-tan.vercel.app',
       },
     },
   });
@@ -33,7 +33,7 @@ bot.command('start', async(ctx) => {
           {
             text: 'Открыть приложение',
             web_app: {
-              url: 'https://gpt-bot-frontend.vercel.app',
+              url: 'https://resume-snap-tan.vercel.app',
             },
           },
         ],
